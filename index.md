@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome To Our Site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Our Costumers Comes Always First
